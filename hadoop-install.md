@@ -1,9 +1,11 @@
 Installation of Hadoop 3.1.3 in ubuntu 18.04/19.04/19.10 
 
 ## Step 1: Installation of openJDK-8
+```bash
 $ Sudo apt install openjdk-8-jdk openjdk-8-jre 
 $ java -version 
 $ sudo apt install vim openssh-server openssh-client 
+```
 
 ## Step 2: Adding the Jdk path to the path variable 
 Open ~/.bashrc and add 
