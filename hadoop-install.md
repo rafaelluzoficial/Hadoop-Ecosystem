@@ -16,8 +16,9 @@ Go to the last line and add the following
 ```bash
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
 export PATH=$PATH:$JAVA_HOME 
-save and exit 
 ```
+save and exit 
+
 Inform the OS about the modification 
 ```bash
 source ~/.bashrc 
