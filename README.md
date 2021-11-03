@@ -1,2 +1,2 @@
 # Hadoop
-Informations about Hadoop environment
+Informations about Hadoop Ecosystem Tools
